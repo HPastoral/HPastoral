@@ -2,7 +2,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Live HoneyNet / SOC</b>
-  - Practical Impementation of Honeynet and SOC in Azure with Live Traffic
+  - Practical Impementation of Honeynet and SIEM in Azure with Live Traffic
 
 <h2>📺 Popular YouTube Videos</h2>
 
