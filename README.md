@@ -1,8 +1,8 @@
 <h1>Hi, I'm Harold! <a href="https://www.linkedin.com/in/harold-pastoral-128163a7/">Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Live HoneyNet / SOC</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Practical Impementation of Honeynet and SOC in Azure with Live Traffic
 
 <h2>📺 Popular YouTube Videos</h2>
 
