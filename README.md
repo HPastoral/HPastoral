@@ -2,7 +2,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Live HoneyNet / SOC</b>
-  - [Practical Impementation of Honeynet and SIEM in Azure with Live Traffic]()
+  - [Practical Impementation of Honeynet and SIEM in Azure with Live Traffic](https://github.com/HPastoral/Azure-SOC)
   -
 - <b>Cybersecurity / Cisco Networking/ Ethical Hacking Projects</b>
 
