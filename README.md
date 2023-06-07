@@ -4,7 +4,11 @@
 - <b>Azure / Live HoneyNet / SOC</b>
   - [Practical Impementation of Honeynet and SIEM in Azure with Live Traffic](https://github.com/HPastoral/Azure-SOC)
   -
-- <b>Cybersecurity / Cisco Networking/ Ethical Hacking Projects</b>
+- <b>Senior Cybersecurity Capstone Project</b>
+  - [Netowork Topology]
+  - [Network Fault-Tolerance / Packet Swtiching]
+  - [3 Simple Hackings]
+  - [Subnetting]
 
   
 <h2>📺 Popular YouTube Videos</h2>
