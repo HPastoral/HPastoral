@@ -5,10 +5,8 @@
   - [Practical Impementation of Honeynet and SIEM in Azure with Live Traffic](https://github.com/HPastoral/Azure-SOC)
   -
 - <b>Senior Cybersecurity Capstone Project</b>
-  - [Netowork Topology]
-  - [Network Fault-Tolerance / Packet Swtiching]
-  - [3 Simple Hackings]
-  - [Subnetting]
+  - [A Fault-Tolerant Network]()
+  
 
   
 <h2>📺 Popular YouTube Videos</h2>
