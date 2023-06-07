@@ -5,7 +5,7 @@
   - [Practical Impementation of Honeynet and SIEM in Azure with Live Traffic](https://github.com/HPastoral/Azure-SOC)
   -
 - <b>Senior Cybersecurity Capstone Project</b>
-  - [A Fault-Tolerant Network]()
+  - [A Fault-Tolerant Network](https://github.com/HPastoral/Fault-Tolerance)
   
 
   
