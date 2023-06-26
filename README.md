@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harold! <a href="https://www.linkedin.com/in/harold-pastoral-128163a7/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Harold! <a href="https://www.linkedin.com/in/harold-pastoral-128163a7/"> An Aspiring Cybersecurity Professional</a>
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Live HoneyNet / SOC</b>
