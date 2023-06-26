@@ -1,11 +1,18 @@
-<h1>Hi, I'm Harold! <a href="https://www.linkedin.com/in/harold-pastoral-128163a7/">Cybersecurity Professional</a>
+<h1>Hi, I'm Harold! <a href="https://www.linkedin.com/in/harold-pastoral-128163a7/">Aspiring Cybersecurity Professional</a>
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Live HoneyNet / SOC</b>
-  - [Practical Impementation of Honeynet and SIEM in Azure with Live Traffic](https://github.com/HPastoral/Azure-SOC)
-  - Incident Response
+  - [Practical Implementation of Honeynet and SIEM in Azure with Live Traffic](https://github.com/HPastoral/Azure-SOC)
+  - [Incident Response]() Work Inprogress...
 - <b>Senior Cybersecurity Capstone Project</b>
   - [A Fault-Tolerant Network](https://github.com/HPastoral/Fault-Tolerance)
+- <b>Fun Projects</b>
+  - [Optimizing Linux Mint for Gaming]() Work in progress...
+- <b>Open-Sourced Security for Home Network</b>
+  - [Implemeting PfSense Firewall to Home Network]() Work in progress...
+  - [Implementing Alien Vault OSSIM (SIEM) to Home Network]() Work in progress...
+  - [Implementing IDS/IPS to Home Network]() Work in progress...
+  - [Initiating a Vulnerability Scan to Home Network]()  Work in progress...
   
 
   
