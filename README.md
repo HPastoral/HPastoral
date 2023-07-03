@@ -4,6 +4,7 @@
 - <b>Azure / Live HoneyNet / SOC</b>
   - [Practical Implementation of Honeynet and SIEM in Azure with Live Traffic](https://github.com/HPastoral/Azure-SOC)
   - [Incident Response]() Work Inprogress...
+  - [Vulnerability Scanning and Management] () Work Inprogress...
 - <b>Senior Cybersecurity Capstone Project</b>
   - [A Fault-Tolerant Network](https://github.com/HPastoral/Fault-Tolerance)
 - <b>Fun Projects</b>
