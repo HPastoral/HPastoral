@@ -9,7 +9,7 @@
   - [A Fault-Tolerant Network](https://github.com/HPastoral/Fault-Tolerance)
 - <b>Fun Projects</b>
   - [Optimizing Linux Mint for Gaming] Work in progress...
-- <b>Open-Sourced Security for Home Network</b>
+- <b>Open-Sourced Security for Home Network (Home SOC)</b>
   - [Introduction of Current Home Network to Secured Home Network](https://github.com/HPastoral/HomeNet1)
     - [Implementing PfSense Firewall to Home Network](https://github.com/HPastoral/PfSense-Firewall)
     - [Implementing OpenVPN for Secure Remote Access to Home Network]()  Work in progress...
